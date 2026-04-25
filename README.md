@@ -1,5 +1,5 @@
-````md
-# 📊 DataBridge Quant
+
+#  DataBridge Quant
 
 <div align="center">
 
@@ -7,13 +7,13 @@
 
 Built with **Python, Streamlit, Plotly, Pandas, NumPy, Statsmodels, Binance API**
 
-[🚀 Live Demo](https://your-streamlit-link.streamlit.app) • [💻 GitHub Repo](https://github.com/YOUR_USERNAME/DataBridge-Quant)
+[Live Demo](https://your-streamlit-link.streamlit.app) • [💻 GitHub Repo](https://github.com/Siyonova/DataBridge-Quant)
 
 </div>
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **DataBridge Quant** is a production-style quantitative analytics dashboard designed for cryptocurrency market monitoring, statistical arbitrage research, and portfolio risk analysis.
 
@@ -23,44 +23,44 @@ It was built to simulate how modern hedge funds, fintech teams, and trading desk
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 📈 Live Market Dashboard
+###  Live Market Dashboard
 - BTC / ETH live or demo market feed
 - Historical trend visualization
 - Real-time pricing overview
 
-### 🔁 Pair Trading Analytics
+###  Pair Trading Analytics
 - BTC/ETH spread monitoring
 - Z-score mean reversion signals
 - Correlation analysis
 - Trading opportunity detection
 
-### ⚠️ Risk Dashboard
+###  Risk Dashboard
 - Annualized volatility
 - 95% Daily Value at Risk (VaR)
 - Maximum Drawdown
 - Sharpe Ratio
 
-### 🧪 Strategy Backtesting
+###  Strategy Backtesting
 - Mean reversion strategy engine
 - Equity curve visualization
 - Final return tracking
 - Signal change count
 
-### 🚨 Alerts Engine
+###  Alerts Engine
 - Volatility alerts
 - Drawdown warnings
 - Pair trading signal notifications
 - Risk threshold monitoring
 
-### 📂 Custom Data Upload
+###  Custom Data Upload
 - Upload your own CSV datasets
 - Analyze custom BTC/ETH data instantly
 
 ---
 
-## 🖥️ Product Screens
+##  Product Screens
 
 ### Dashboard Home
 
@@ -102,7 +102,7 @@ assets/pair-analysis.png
 
 ---
 
-## 🧠 Quant Models Used
+##  Quant Models Used
 
 ### Z-Score Mean Reversion
 
@@ -138,7 +138,7 @@ Estimated worst expected loss over a confidence level.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```txt
 DataBridge-Quant/
@@ -163,7 +163,7 @@ DataBridge-Quant/
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ### 1 Clone Repo
 
@@ -186,7 +186,7 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 Hosted free on Streamlit Community Cloud.
 
@@ -196,7 +196,7 @@ https://your-streamlit-link.streamlit.app
 
 ---
 
-## 📊 Example Use Cases
+##  Example Use Cases
 
 ### Recruiters / Hiring Managers
 
@@ -223,7 +223,7 @@ Demonstrates:
 
 ---
 
-## 🎯 Why This Project Matters
+##  Why This Project Matters
 
 Most student dashboards stop at charts.
 
@@ -239,7 +239,7 @@ Most student dashboards stop at charts.
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 * Multi-asset portfolio optimizer
 * LSTM price forecasting
@@ -251,24 +251,17 @@ Most student dashboards stop at charts.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
-**Chaandini V**
+**Siyona B**
 AI / Data / Quant Analytics Engineer
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINK) • [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/siyona-bonam/) • [GitHub](https://github.com/Siyonova)
 
 ---
 
-## ⭐ If You Like This Project
+##  If You Like This Project
 
 Please star the repository and share feedback.
 
 ---
-
-## 📜 License
-
-MIT License
-
-```
-```
