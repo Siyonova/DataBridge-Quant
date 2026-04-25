@@ -7,7 +7,7 @@
 
 Built with **Python, Streamlit, Plotly, Pandas, NumPy, Statsmodels, Binance API**
 
-[Live Demo](https://your-streamlit-link.streamlit.app) • [💻 GitHub Repo](https://github.com/Siyonova/DataBridge-Quant)
+[Live Demo](https://databridge-quant-9oa5mfu82g8f72mpymbvu8.streamlit.app/) • [💻 GitHub Repo](https://github.com/Siyonova/DataBridge-Quant)
 
 </div>
 
